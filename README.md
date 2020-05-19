@@ -1,7 +1,7 @@
 # ryanlam7.github.io
-Final Project CMSC32
+Final Project CMSC320
 
-Follow link below to check out our project! 
+Follow the link below to check out our project! 
 
 https://ryanlam7.github.io/
 
