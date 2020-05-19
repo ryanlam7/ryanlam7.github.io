@@ -1,4 +1,8 @@
 # ryanlam7.github.io
 Final Project CMSC32
 
-Edit 1 test0
+Follow link below to check out our project! 
+
+https://ryanlam7.github.io/
+
+
